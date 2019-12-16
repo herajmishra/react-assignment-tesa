@@ -1,0 +1,42 @@
+{
+  "_from": "https://github.com/jqwidgets/assignment-tesa/tarball/master",
+  "_id": "assignment-tesa@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-TzCrV6rvvYS5En18r6qrM2T7Rz24DQomJCLmQ2j/V08534YPijH5CjTAKJcDI8vNHM+HgyNS3YFxDVd0mHWSqg==",
+  "_location": "/assignment-tesa/assignment-tesa",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "assignment-tesa@https://github.com/jqwidgets/assignment-tesa/tarball/master",
+    "name": "assignment-tesa",
+    "escapedName": "assignment-tesa",
+    "rawSpec": "https://github.com/jqwidgets/assignment-tesa/tarball/master",
+    "saveSpec": "https://github.com/jqwidgets/assignment-tesa/tarball/master",
+    "fetchSpec": "https://github.com/jqwidgets/assignment-tesa/tarball/master"
+  },
+  "_requiredBy": [],
+  "_resolved": "https://github.com/jqwidgets/assignment-tesa/tarball/master",
+  "_shasum": "7d2a1b35e0af075c74da15c045aaddabd7a70e35",
+  "_spec": "assignment-tesa@https://github.com/jqwidgets/assignment-tesa/tarball/master",
+  "_where": "D:\\softwares\\node-v12.13.1-win-x64\\node_modules\\assignment-tesa",
+  "bundleDependencies": false,
+  "dependencies": {
+    "jqwidgets-scripts": "^8.3.2",
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "react-dropdown": "^1.6.4",
+    "react-load-image": "^0.1.7",
+    "react-scripts": "1.1.4"
+  },
+  "deprecated": false,
+  "description": "Please refer to its documentation:   - [Getting Started](https://github.com/jqwidgets/assignment-tesa/blob/master/README.md#getting-started)    - [jQWidgets React Documentation](http://www.jqwidgets.com/reactjs-components-documentation/)",
+  "name": "assignment-tesa",
+  "private": true,
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "version": "1.0.0"
+}
