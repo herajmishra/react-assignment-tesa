@@ -23,7 +23,7 @@
   "dependencies": {
     "jqwidgets-scripts": "^8.3.2",
     "react": "16.4.1",
-    "react-dom": "16.4.1",
+    "react-dom": "16.4.2",
     "react-dropdown": "^1.6.4",
     "react-load-image": "^0.1.7",
     "react-scripts": "1.1.4"
